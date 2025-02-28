@@ -7,7 +7,6 @@
 
 This app runs off the mongoDB database. It acts as a kind of social media that you interact with using routes.
 
-Click <a href="https://drive.google.com/file/d/1hZ0U-JHFA99XTYIQLSRVgRjG6y3w5VWa/view?usp=sharing">here</a> to take you to a demonstration video of how to use the routes!
 
 ## Table of Contents
 
@@ -20,8 +19,7 @@ Click <a href="https://drive.google.com/file/d/1hZ0U-JHFA99XTYIQLSRVgRjG6y3w5VWa
 - [Future-Features](#future-features)
 - [License](#license)
 - [Technologies](#technologies-used)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
+
 
 ## Required Technologies
 
@@ -281,17 +279,3 @@ Licensed under the MIT license.
 <li>Mozila Web Docs and W3 Schools (for getting help with TypeScript).</li>
 </ul>
 
-## Credits
-
-<ul>
-<li>Joshua Pruitt (me)</li>
-<li>Coding bootcamp staff (for their help with Coding)</li>
-</ul>
-
-## Contact Me
-
-<ul>
-<li>My email: joshuapruitt6484@gmail.com</li>
-<li><a href=https://github.com/JoshuaPruitt>My GitHub</a></li>
-<li><a href=https://www.linkedin.com/in/joshua-pruitt-1a494a311>My LinkedIn</a></li>
-</ul>
