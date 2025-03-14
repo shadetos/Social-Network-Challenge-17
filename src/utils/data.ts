@@ -1,35 +1,35 @@
 
 export const userData = [
     {
-        username: 'Sponge',
-        email: 'superSoak@email.com'
+        username: 'West',
+        email: 'WestWood@email.com'
     },
 
     {
-        username: 'IzziPop',
-        email: 'izziEmail@email.com'
+        username: 'WhatWhat',
+        email: 'WhatWhat@email.com'
     },
 
     {
-        username: 'joshLovesIzzi',
-        email: 'joshEmail@email.com'
+        username: 'peaceandlove',
+        email: 'peaceandlove@email.com'
     }
 ];
 
 
 const reactions = [
     {
-        reactionBody: 'Man that really sucks :( im sorry!',
+        reactionBody: 'Unfortunate!',
         username: userData[1].username,
     },
 
     {
-        reactionBody: 'Haha Loser! Better luck next time!',
+        reactionBody: 'Not Good! Next time!',
         username: userData[0].username,
     }, 
 
     {
-        reactionBody: 'Really dude....',
+        reactionBody: 'Nope....',
         username: userData[1].username,
     }
 ]
