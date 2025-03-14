@@ -36,13 +36,13 @@ const reactions = [
 
 export const thoughtData = [
     {
-        thoughtText: `My dog juinie has a gambling addiction and it's killing my family :(`,
+        thoughtText: `Addictions are not good`,
         username: userData[2].username,
         reactions: [reactions[0], reactions[1]]
     },
 
     {
-        thoughtText: `I am so dark and mysterious...`,
+        thoughtText: `Be the guiding light`,
         username: userData[0].username,
         reactions: [reactions[2]]
     }
